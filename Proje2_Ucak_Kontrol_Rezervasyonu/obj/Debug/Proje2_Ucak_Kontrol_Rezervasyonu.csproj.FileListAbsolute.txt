@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje2_Ucak_Kontrol_Rezervasyonu\Proje2_Ucak_Kontrol_Rezervasyonu\bin\Debug\Proje2_Ucak_Kontrol_Rezervasyonu.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje2_Ucak_Kontrol_Rezervasyonu\Proje2_Ucak_Kontrol_Rezervasyonu\bin\Debug\Proje2_Ucak_Kontrol_Rezervasyonu.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje2_Ucak_Kontrol_Rezervasyonu\Proje2_Ucak_Kontrol_Rezervasyonu\bin\Debug\Proje2_Ucak_Kontrol_Rezervasyonu.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje2_Ucak_Kontrol_Rezervasyonu\Proje2_Ucak_Kontrol_Rezervasyonu\obj\Debug\Proje2_Ucak_Kontrol_Rezervasyonu.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje2_Ucak_Kontrol_Rezervasyonu\Proje2_Ucak_Kontrol_Rezervasyonu\obj\Debug\Proje2_Ucak_Kontrol_Rezervasyonu.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje2_Ucak_Kontrol_Rezervasyonu\Proje2_Ucak_Kontrol_Rezervasyonu\obj\Debug\Proje2_Ucak_Kontrol_Rezervasyonu.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje2_Ucak_Kontrol_Rezervasyonu\Proje2_Ucak_Kontrol_Rezervasyonu\obj\Debug\Proje2_Ucak_Kontrol_Rezervasyonu.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje2_Ucak_Kontrol_Rezervasyonu\Proje2_Ucak_Kontrol_Rezervasyonu\obj\Debug\Proje2_Ucak_Kontrol_Rezervasyonu.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje2_Ucak_Kontrol_Rezervasyonu\Proje2_Ucak_Kontrol_Rezervasyonu\obj\Debug\Proje2_Ucak_Kontrol_Rezervasyonu.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje2_Ucak_Kontrol_Rezervasyonu\Proje2_Ucak_Kontrol_Rezervasyonu\obj\Debug\Proje2_Ucak_Kontrol_Rezervasyonu.pdb
